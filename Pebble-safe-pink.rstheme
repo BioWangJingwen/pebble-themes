@@ -54,7 +54,7 @@
 }
 
 .ace_fold {
-  background-color: #FF7F00;
+  background-color: #ff94b3;
   border-color: #000000;
 }
 
@@ -64,7 +64,7 @@
 
 
 .ace_keyword {
-  color: #FF7F00;
+  color: #ff94b3;
 
 }
 
@@ -89,7 +89,7 @@
 }
 
 .ace_support.ace_function {
-  color: #FF7F00;
+  color: #ff94b3;
 
 }
 
@@ -99,7 +99,7 @@
 }
 
 .ace_string {
-  color: #6A3D9A;
+  color: #47cf73;
 
 }
 
@@ -114,7 +114,7 @@
 }
 
 .ace_meta.ace_tag {
-  color: #FF7F00;
+  color: #ff94b3;
 
 }
 
@@ -136,7 +136,7 @@
   z-index: -1;
 }
 .nocolor.ace_editor .ace_line span {
-  color: #ff7f00 !important;
+  color: #ff94b3 !important;
 }
 .ace_bracket {
   margin: 0 !important;
