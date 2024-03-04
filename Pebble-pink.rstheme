@@ -18,12 +18,12 @@
 }
 
 .ace_cursor {
-  color: #E78AC3;
+  color: #f39c80;
 }
 
 .ace_marker-layer .ace_selection {
   padding: 0px 0px 0px 2px;
-  background: #E78AC3BF;
+  background: #f39c80BF;
 }
 
 .ace_selection.ace_start {
@@ -50,7 +50,7 @@
 
 .ace_marker-layer .ace_selected-word {
   padding: 1px 0px 1px 2px;
-  border: 1px solid #E78AC3
+  border: 1px solid #f39c80
 }
 
 .ace_fold {
