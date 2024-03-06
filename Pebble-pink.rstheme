@@ -23,7 +23,7 @@
 
 .ace_marker-layer .ace_selection {
   padding: 0px 0px 0px 2px;
-  background: #f39c80BF;
+  background: #f39c8033;
 }
 
 .ace_selection.ace_start {
